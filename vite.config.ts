@@ -24,13 +24,13 @@ export default defineConfig({
 			}
 		},
 		// Enable minification
-		minify: true
+		// minify: true
 	},
-	css: {
-    postcss: {
-      plugins: []
-    }
-  },
+	// css: {
+  //   postcss: {
+  //     plugins: []
+  //   }
+  // },
 	plugins: [
 		vue(),
 		dts({

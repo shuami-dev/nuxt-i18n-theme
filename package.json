@@ -10,9 +10,6 @@
       "types": "./dist/types/index.d.ts",
       "import": "./dist/index.esm.js",
       "require": "./dist/index.cjs.js"
-    },
-    "./style.css": {
-      "default": "./dist/nuxt-i18n-theme.css"
     }
   },
   "files": [
